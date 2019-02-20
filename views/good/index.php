@@ -32,6 +32,7 @@
         justify-content: center;
         margin-bottom: 20px;
     }
+    
     .item-1{background-color: lightblue;}
     .item-2{background-color: lightcyan;}
     .item-3{background-color: lightgoldenrodyellow;}
