@@ -50,6 +50,8 @@ $config = [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
+                'collections/<id>' => 'collections/view',
+                'good/<name>' => 'good/index',
             ],
         ],
 
